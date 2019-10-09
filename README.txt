@@ -9,4 +9,5 @@ What does this program even do???
 2. If the program is not supposed to stop, used video playlists specified in _0_playlist_input.txt to download the meta-data of the contained videos. The videos are ranked by viewcount.
 3. These videos are then downloaded in order of viewcount one at a time and re-upload with some additional meta-data on my account ( https://www.youtube.com/channel/UCRfEI0VxwKtzcxVzZaQSBkA ).
 
-In total about 4800 videos have been uploaded in this way. I want to clarify that this is a toy project meant to use public domain data without monetization.
+In total about 4800 videos have been uploaded in this way. The main limitations were YouTubes upload quotas which only allow a limited number of daily uploads and availability of public domain video material.
+I want to clarify that this is a toy project meant to use public domain data without any form of monetization.
