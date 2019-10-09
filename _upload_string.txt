@@ -1,0 +1,28 @@
+youtube-upload --title=" 4. Transactions and the UTXO model " --category="Education" --tags="'hash functions' nonces blocks 'tamper proof' 'hash pointers' messages transactions authorization, science, engineering, technology, knowledge, fun" --playlist="MIT Cryptocurrency" --description="
+
+MIT MAS.S62 Cryptocurrency Engineering and Design, Spring 2018
+Instructor: Neha Narula
+View the complete course: https://ocw.mit.edu/MAS-S62S18
+YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId
+
+Further exploration of blockchain transactions, inputs, outputs, and scriptsigs.
+
+License: Creative Commons BY-NC-SA
+More information at https://ocw.mit.edu/terms
+More courses at https://ocw.mit.edu
+
+Please subscribe and like our videos to make them more visible to a wider audience.
+We hope to make this unique and educational content more accessible to the public.
+
+Originally uploaded by MIT OpenCourseWare on 09-07-2019.
+Cited keywords: 'hash functions' nonces blocks 'tamper proof' 'hash pointers' messages transactions authorization
+
+Disclaimer:
+This material is re-uploaded in order to disseminate its content to a wider audience.
+All material is originally created by various public entities and should therefore be free of copyright restrictions.
+Nonetheless, if the material (in its entirety or in part) violates your copyright, please let us know what steps you want us to take.
+
+Video may display ads monetized by audiovisual copyright holders in some cases or in order to help facilitate the logistics and costs associated with identifying, preparing, and distributing this content.
+
+We hope you enjoy these works of knowledge. Please subscribe and like our videos to make them more visible to a wider audience.
+" --client-secrets=client_secrets.json /home/jo/workspace/youtube_streaming/video_folder/video.mp4

@@ -1,0 +1,20 @@
+######################
+## FIXED LISTS (always look for new videos in these lists to re-upload)
+######################
+
+"plurl": "https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId"
+"vid_playlist": "MIT Cryptocurrency"
+"title_prefix": ""
+"title_suffix": ""
+"title_remove": ""
+"tags_addition": "science, engineering, technology, knowledge, fun"
+"description_addition": ""
+"keep_ordering": "0"
+"sleep_duration_minutes": "0"
+
+######################
+## END OF FIXED LISTS
+######################
+
+
+

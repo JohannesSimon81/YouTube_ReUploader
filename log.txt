@@ -1,0 +1,18 @@
+Starting starter.py - 2019-10-09 19:42:53.633922
+In starter.py - starting... - 2019-10-09 19:42:53.634170
+Starting playlist_download#.py - 2019-10-09 19:42:53.843575
+In playlist_download#.py: starting out loop - 2019-10-09 19:42:53.843644
+4. Transactions and the UTXO model not yet processed - 2019-10-09 19:42:54.179179
+4. Transactions and the UTXO model just before - 2019-10-09 19:42:54.179244
+
+1 - 2019-10-09 19:42:54.179282
+
+2 - 2019-10-09 19:42:56.089293
+
+3 - 2019-10-09 19:48:12.223699
+
+4 - 2019-10-09 19:48:12.223765
+
+5 - 2019-10-09 19:48:12.287664
+4. Transactions and the UTXO model downloaded - 2019-10-09 19:48:12.287876
+In starter.py - kicked out of playlist_download#.py... - 2019-10-09 19:58:10.909752
